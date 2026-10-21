@@ -1,0 +1,174 @@
+{
+  "1": {
+    "category": "Semana 1: Cómo suena el inglés de verdad",
+    "title": "Día 1: Never mind vs No matter",
+    "repaso": [],
+    "contraste": [
+      {
+        "title": "Descartar vs Condicionar",
+        "use": "Aprende a diferenciar cuándo cancelar una idea y cuándo indicar que una condición no importa.",
+        "examples": [
+          { "text": "Never mind", "context": "Olvídalo / Ya no importa lo que iba a decir." },
+          { "text": "No matter", "context": "Sin importar qué (requiere complemento como 'what')." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I was gonna ask for help, but never mind, it's no big deal.",
+      "phonetic": "'gonna' = going to. 'never mind' se pronuncia con la 'r' muy suave y corrida."
+    },
+    "escuchaReal": {
+      "material": "Busca un fragmento corto de una entrevista a Miley Cyrus cantando o hablando en YouTube.",
+      "task": "Escucha a ciegas 3 veces. Anota qué palabras suenan unidas y revisa tus fallos."
+    }
+  },
+  "2": {
+    "category": "Semana 1: Cómo suena el inglés de verdad",
+    "title": "Día 2: Wanna y Gotta en conversaciones rápidas",
+    "repaso": [
+      { "expression": "Never mind", "note": "Recuerda que se usa solo para descartar un tema." }
+    ],
+    "contraste": [
+      {
+        "title": "Deseo vs Necesidad Obligatoria",
+        "use": "Cómo abreviamos los nativos americanos los verbos modales en el día a día.",
+        "examples": [
+          { "text": "Wanna", "context": "Contracción de 'want to'. Ej: I wanna go." },
+          { "text": "Gotta", "context": "Contracción de 'got to' (tener que). Ej: I gotta go." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I wanna talk to you, but I gotta go right now.",
+      "phonetic": "'wanna' funde la 't' y 'to'. 'gotta' reduce 'have got to' drásticamente."
+    },
+    "escuchaReal": {
+      "material": "Busca una entrevista rápida de un podcast en YouTube (ej. Joe Rogan o similar).",
+      "task": "Identifica cuántas veces dicen 'wanna' o 'gotta' sin articular la 't'."
+    }
+  },
+  "3": {
+    "category": "Semana 1: Cómo suena el inglés de verdad",
+    "title": "Día 3: El fenómeno de la 'T' suave (flap T)",
+    "repaso": [
+      { "expression": "Gotta", "note": "Indica necesidad u obligación inmediata." }
+    ],
+    "contraste": [
+      {
+        "title": "Pronunciación en EE. UU. vs Británico",
+        "use": "En EE. UU., la 't' entre vocales suena como una 'd' rápida.",
+        "examples": [
+          { "text": "Water", "context": "Suena como 'wader'." },
+          { "text": "Better", "context": "Suena como 'bedder'." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Can you get me some water? It's better for me.",
+      "phonetic": "La 't' en 'get me', 'water' y 'better' se convierte en un sonido de 'd' suave."
+    },
+    "escuchaReal": {
+      "material": "Escucha la canción 'The Climb' de Miley Cyrus y céntrate en cómo pronuncia las palabras del estribillo.",
+      "task": "Anota las palabras donde notes que la 't' suena diferente al inglés de libro de texto."
+    }
+  },
+  "4": {
+    "category": "Semana 1: Cómo suena el inglés de verdad",
+    "title": "Día 4: Enlaces consonante + vocal",
+    "repaso": [
+      { "expression": "Water / Better", "note": "Recuerda el sonido de la 't' como 'd' suave." }
+    ],
+    "contraste": [
+      {
+        "title": "Fluidez natural",
+        "use": "Las palabras en inglés real no se dicen separadas, la última consonante salta a la siguiente vocal.",
+        "examples": [
+          { "text": "Turn off", "context": "Suena como 'tur-noff'." },
+          { "text": "Not at all", "context": "Suena como 'no-ta-tall'." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Turn off the lights, it's not at all bright here.",
+      "phonetic": "Las palabras se funden en una sola cadena sonora continua."
+    },
+    "escuchaReal": {
+      "material": "Escucha una escena corta de una serie en streaming en inglés.",
+      "task": "Intenta captar dónde una palabra termina en consonante y se pega a la siguiente."
+    }
+  },
+  "5": {
+    "category": "Semana 1: Cómo suena el inglés de verdad",
+    "title": "Día 5: Vocales débiles (Schwa /ə/)",
+    "repaso": [
+      { "expression": "Turn off", "note": "Prueba a enlazar la consonante con la vocal." }
+    ],
+    "contraste": [
+      {
+        "title": "El sonido neutro del inglés hablado",
+        "use": "Las vocales en sílabas no acentuadas se convierten en un sonido flojo y rápido llamado schwa.",
+        "examples": [
+          { "text": "Support", "context": "La 'u' suena como un murmullo 'sə-port'." },
+          { "text": "For", "context": "En frase rápida suena como 'fer'." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "This is for support, not for fun.",
+      "phonetic": "La preposición 'for' se debilita a /fər/ cuando hablamos rápido."
+    },
+    "escuchaReal": {
+      "material": "Busca una entrevista de Taylor Swift hablando tranquilamente.",
+      "task": "Presta atención a las preposiciones y artículos pequeños; nota cómo casi desaparecen."
+    }
+  },
+  "6": {
+    "category": "Semana 1: Cómo suena el inglés de verdad",
+    "title": "Día 6: Lemme y Gimme (Reducciones extremas)",
+    "repaso": [
+      { "expression": "For -> Fer", "note": "Las palabras funcionales pierden fuerza." }
+    ],
+    "contraste": [
+      {
+        "title": "Peticiones informales rápidas",
+        "use": "Cómo se fusionan los verbos con los pronombres en la calle.",
+        "examples": [
+          { "text": "Lemme", "context": "Contracción de 'let me'. Ej: Lemme see." },
+          { "text": "Gimme", "context": "Contracción de 'give me'. Ej: Gimme that." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Lemme check that out and gimme a second.",
+      "phonetic": "'let me' pasa a 'lemme' y 'give me' pasa a 'gimme' de forma natural."
+    },
+    "escuchaReal": {
+      "material": "Escucha una canción de Oasis (ej. 'Stop Crying Your Heart Out').",
+      "task": "Identifica reducciones de pronombres en la letra."
+    }
+  },
+  "7": {
+    "category": "Semana 1: Cómo suena el inglés de verdad",
+    "title": "Día 7: Mini-Test y Repaso de la Semana 1",
+    "repaso": [
+      { "expression": "Repaso General", "note": "Consolida las reducciones vistas (gonna, wanna, gotta, lemme)." }
+    ],
+    "contraste": [
+      {
+        "title": "Autoevaluación de Oído",
+        "use": "Día enfocado en medir tu progreso con los dictados y repasar los errores acumulados.",
+        "examples": [
+          { "text": "Revisión A/B/C", "context": "Analiza tus fallos de la semana según tus estadísticas." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I gotta go, but lemme tell you something before I leave.",
+      "phonetic": "Integración de múltiples reducciones en una sola frase a velocidad real."
+    },
+    "escuchaReal": {
+      "material": "Elige tu canción favorita de la semana de la lista sugerida.",
+      "task": "Haz el ejercicio completo de 3 pasadas sin mirar la letra hasta el final."
+    }
+  }
+}

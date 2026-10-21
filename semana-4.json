@@ -1,0 +1,225 @@
+{
+  "22": {
+    "category": "Semana 4: Velocidad Natural y Producción Propia",
+    "title": "Día 22: Solapamientos y lenguaje atropellado",
+    "repaso": [
+      { "expression": "I'm down / I'm good", "note": "Repasa las formas informales de aceptar o rechazar planes." }
+    ],
+    "contraste": [
+      {
+        "title": "Interrupciones e ideas incompletas",
+        "use": "En debates o entrevistas grupales, la gente no habla por turnos perfectos; se pisan las voces y se acortan frases.",
+        "examples": [
+          { "text": "Hold on a sec", "context": "Espera un segundo / Déjame terminar." },
+          { "text": "Where was I?", "context": "¿Por dónde iba? (cuando te interrumpen)." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Hold on a sec, let me finish what I was saying before you jump in.",
+      "phonetic": "'Hold on a sec' suena como 'hol-do-na-sec' sin pausas."
+    },
+    "escuchaReal": {
+      "material": "Busca una entrevista grupal en YouTube (por ejemplo, el elenco de una película en un programa de radio o podcast).",
+      "task": "Anota cómo retoman la palabra cuando dos personas hablan al mismo tiempo."
+    }
+  },
+  "23": {
+    "category": "Semana 4: Velocidad Natural y Producción Propia",
+    "title": "Día 23: Pre-Hip Hop (Ritmo, métrica y acentuación)",
+    "repaso": [
+      { "expression": "Hold on a sec", "note": "Úsalo para pedir la palabra de forma fluida." }
+    ],
+    "contraste": [
+      {
+        "title": "Stress-timed language (Acentuación por tiempo)",
+        "use": "El inglés no le da el mismo tiempo a cada sílaba; se acelera entre las palabras acentuadas. En el rap esto se lleva al extremo.",
+        "examples": [
+          { "text": "Flow & Cadence", "context": "Cómo el rapero agrupa 5 o 6 palabras reducidas en un solo golpe de compás." },
+          { "text": "Elisión de consonantes", "context": "Desaparición de 't', 'd' y 'g' al final de las palabras (ej. runnin', startin')." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I'm runnin' through the streets tryin' to make a dollar outta fifteen cents.",
+      "phonetic": "Desaparece la 'g' final en 'runnin' y 'tryin'. 'out of' suena como 'outta'."
+    },
+    "escuchaReal": {
+      "material": "Busca el verso de Jay-Z en 'Empire State of Mind' o una entrevista de Jay-Z hablando de su ritmo de trabajo.",
+      "task": "Intenta seguir el ritmo sin leer la letra en la primera pasada; anota el golpe de acento principal."
+    }
+  },
+  "24": {
+    "category": "Semana 4: Velocidad Natural y Producción Propia",
+    "title": "Día 24: Eminem Style (Rimas internas y velocidad de Detroit)",
+    "repaso": [
+      { "expression": "Elisión de consonantes", "note": "Recuerda que la 'g' final en verbos en -ing suele omitirse en el rap." }
+    ],
+    "contraste": [
+      {
+        "title": "Variaciones del Medio Oeste / Detroit",
+        "use": "Eminem combina patrones de Detroit, elisión extrema de vocales débiles y acentuación en sílabas inesperadas para hacer rima.",
+        "examples": [
+          { "text": "Gonna've", "context": "Contracción doble extrema (going to have)." },
+          { "text": "Snap back to reality", "context": "Regresar de golpe a la realidad." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Snap back to reality, oh there goes gravity, he choked.",
+      "phonetic": "Atención al choque de sílabas cortas: 'snap-back-to-re-al-i-ty' articulado con velocidad y precisión."
+    },
+    "escuchaReal": {
+      "material": "Escucha las primeras estrofas de 'Lose Yourself' de Eminem.",
+      "task": "Haz la primera pasada a ciegas, anota lo que captes y marca en el paso 2 cómo encadena las rimas internas."
+    }
+  },
+  "25": {
+    "category": "Semana 4: Velocidad Natural y Producción Propia",
+    "title": "Día 25: Acentos y variaciones regionales en EE. UU.",
+    "repaso": [
+      { "expression": "Snap back", "note": "Significa volver bruscamente a una situación o estado mental." }
+    ],
+    "contraste": [
+      {
+        "title": "Costa Este (NY) vs Medio Oeste vs Sur",
+        "use": "Reconocer cómo cambian la pronunciación de vocales y la velocidad según la procedencia del hablante.",
+        "examples": [
+          { "text": "NY / East Coast", "context": "Habla directa, 'r' más marcada o caídas de tono rápidas." },
+          { "text": "Southern Drawl", "context": "Vocales alargadas y ritmo más pausado." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Y'all need to understand where we're coming from.",
+      "phonetic": "'Y'all' es la contracción típica del sur y del habla informal urbana para 'you all'."
+    },
+    "escuchaReal": {
+      "material": "Busca un documental corto o entrevista de calle en Nueva York o en un estado del Sur de EE. UU.",
+      "task": "Distingue las diferencias de ritmo y modulaciones entre los entrevistados."
+    }
+  },
+  "26": {
+    "category": "Semana 4: Velocidad Natural y Producción Propia",
+    "title": "Día 26: Deducir significado por contexto (Sin traductor)",
+    "repaso": [
+      { "expression": "Y'all", "note": "Contracción de 'you all' ampliamente usada en el habla informal." }
+    ],
+    "contraste": [
+      {
+        "title": "Estrategias de deducción",
+        "use": "Aprende a no frenarte ante una palabra desconocida; dedúcela por el tono, la reacción del interlocutor y la frase completa.",
+        "examples": [
+          { "text": "Palabras clave vs Relleno", "context": "No intentes traducir el 100%; concéntrate en el verbo y el sujeto." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Despite all the hurdles, we managed to pull it off against all odds.",
+      "phonetic": "'pull it off' se conecta como 'pu-li-toff' (lograr algo difícil)."
+    },
+    "escuchaReal": {
+      "material": "Escucha un fragmento de 3 minutos de un documental o charla TED sin subtítulos.",
+      "task": "Escribe un resumen de 2 líneas de la idea central antes de activar los subtítulos en inglés."
+    }
+  },
+  "27": {
+    "category": "Semana 4: Velocidad Natural y Producción Propia",
+    "title": "Día 27: Reformulación y producción con tus palabras",
+    "repaso": [
+      { "expression": "Pull it off", "note": "Lograr realizar algo complejo o difícil." }
+    ],
+    "contraste": [
+      {
+        "title": "De la recepción a la expresión",
+        "use": "Tomar una frase escuchada y expresarla usando un registro distinto (de formal a informal o viceversa).",
+        "examples": [
+          { "text": "Original (Formal)", "context": "I am unable to attend the meeting today." },
+          { "text": "Reformulado (Casual)", "context": "I can't make it today, I'm good though." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I won't be able to make it to the show tonight, sorry about that.",
+      "phonetic": "'won't be able to' se pronuncia fluido como 'won-be-a-ble-to'."
+    },
+    "escuchaReal": {
+      "material": "Escucha una escena de una película dramática o serie que te guste.",
+      "task": "Elige 2 oraciones del personaje y reescríbelas con palabras más informales en el bloque de Cierre."
+    }
+  },
+  "28": {
+    "category": "Semana 4: Velocidad Natural y Producción Propia",
+    "title": "Día 28: Repaso de la Semana 4 y consolidación",
+    "repaso": [
+      { "expression": "Consolidación de Velocidad", "note": "Repasa elipsis, reducciones de rap y patrones de discurso largo." }
+    ],
+    "contraste": [
+      {
+        "title": "Preparación para el cierre",
+        "use": "Consolidación de estrategias para mantener la escucha activa en entornos complejos.",
+        "examples": [
+          { "text": "Revisión de Errores B y C", "context": "Analiza si tus errores de oído (B) y matiz (C) han disminuido." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "If you wanna make it in this business, you gotta keep pushin' no matter what.",
+      "phonetic": "Combinación a velocidad nativa de gonna/wanna/gotta y elisión de consonante final."
+    },
+    "escuchaReal": {
+      "material": "Elige tu canción de rap/hip-hop o escena de serie más desafiante de todo el mes.",
+      "task": "Haz la prueba de las 3 pasadas y comprueba cuánto más logras captar en comparación con la semana 1."
+    }
+  },
+  "29": {
+    "category": "Cierre del Reto (Días 29 y 30)",
+    "title": "Día 29: Test Final de Oído y Matices",
+    "repaso": [
+      { "expression": "Test Final", "note": "Comparativa directa con el test inicial del Día 1." }
+    ],
+    "contraste": [
+      {
+        "title": "Evaluación de Progreso",
+        "use": "Medición de tu capacidad actual para decodificar inglés nativo a velocidad real.",
+        "examples": [
+          { "text": "Dictado complejo", "context": "Evaluación con frase de alta densidad fonética." },
+          { "text": "Discriminación de intenciones", "context": "Verificación de la correcta interpretación de matices." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Never mind what they said, I'm down for whatever you wanna do, so let me know.",
+      "phonetic": "Prueba completa que integra expresiones clave y reducciones acumuladas en los 30 días."
+    },
+    "escuchaReal": {
+      "material": "Selecciona una entrevista o canción totalmente nueva de 3 minutos de duración.",
+      "task": "Realiza la prueba sin subtítulos y evalúa tu porcentaje global de comprensión."
+    }
+  },
+  "30": {
+    "category": "Cierre del Reto (Días 29 y 30)",
+    "title": "Día 30: Informe de Resultados y Plan de Continuación",
+    "repaso": [
+      { "expression": "Balance de 30 Días", "note": "Revisión de tus estadísticas globales exportadas en el archivo JSON." }
+    ],
+    "contraste": [
+      {
+        "title": "Mantenimiento del hábito",
+        "use": "Plan de entrenamiento diario autónomo para seguir perfeccionando el oído sin volver a estudiar de memoria.",
+        "examples": [
+          { "text": "Escucha consciente diaria", "context": "Dedicar 15-20 minutos diarios a decodificar clips de series o podcasts." },
+          { "text": "Uso de tu archivo de errores", "context": "Exporta tu JSON regularmente para no perder tu historial de aprendizaje." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Congratulations on finishing the 30-day challenge! Keep practicing every single day.",
+      "phonetic": "Mensaje final de felicitación a velocidad de conversación estándar."
+    },
+    "escuchaReal": {
+      "material": "Tu contenido favorito libre (canción, podcast, película o entrevista de tu elección).",
+      "task": "Exporta tu progreso en JSON con el botón superior para guardar tu historial definitivo."
+    }
+  }
+}

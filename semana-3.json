@@ -1,0 +1,176 @@
+{
+  "15": {
+    "category": "Semana 3: Inglés Coloquial de EE. UU.",
+    "title": "Día 15: Muletillas y conectores (Like, You know, I mean)",
+    "repaso": [
+      { "expression": "Make vs Do", "note": "Repasa la diferencia entre producir y ejecutar." }
+    ],
+    "contraste": [
+      {
+        "title": "Rellenar espacios en el habla espontánea",
+        "use": "En EE. UU., los hablantes usan muletillas constantemente para ganar tiempo al pensar.",
+        "examples": [
+          { "text": "You know", "context": "Para buscar complicidad o confirmación del oyente." },
+          { "text": "I mean", "context": "Para matizar, aclarar o reformular lo que acabas de decir." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I mean, you know, it's just not what I expected.",
+      "phonetic": "Las muletillas se dicen muy rápido y con tono bajo; casi se funden antes de la idea principal."
+    },
+    "escuchaReal": {
+      "material": "Busca una entrevista espontánea de Robert Downey Jr. en YouTube.",
+      "task": "Cuenta cuántas veces utiliza 'you know' o 'I mean' para conectar sus ideas."
+    }
+  },
+  "16": {
+    "category": "Semana 3: Inglés Coloquial de EE. UU.",
+    "title": "Día 16: Slang urbano y reducciones extremas (Ain't)",
+    "repaso": [
+      { "expression": "You know", "note": "Recuerda que sirve para conectar ideas y ganar tiempo." }
+    ],
+    "contraste": [
+      {
+        "title": "La negación informal universal",
+        "use": "La palabra 'ain't' sustituye a múltiples formas negativas en el habla coloquial.",
+        "examples": [
+          { "text": "Ain't got time", "context": "Equivale a 'don't have time' (no tengo tiempo)." },
+          { "text": "Ain't no way", "context": "Equivale a 'there's no way' (de ninguna manera)." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I ain't got time for no games, straight up.",
+      "phonetic": "'ain't got' y la doble negativa se pronuncian con fuerte énfasis rítmico."
+    },
+    "escuchaReal": {
+      "material": "Escucha una canción de hip-hop o rap clásico (como Eminem o Jay-Z).",
+      "task": "Identifica el uso de 'ain't' y cómo encaja en la métrica del verso."
+    }
+  },
+  "17": {
+    "category": "Semana 3: Inglés Coloquial de EE. UU.",
+    "title": "Día 17: Ironía y sarcasmo en el tono de voz",
+    "repaso": [
+      { "expression": "Ain't", "note": "Recuerda su uso informal para negar de forma categórica." }
+    ],
+    "contraste": [
+      {
+        "title": "Decir una cosa queriendo decir otra",
+        "use": "El inglés de EE. UU. abusa del sarcasmo; lo importante no son las palabras, sino el tono plano o exagerado.",
+        "examples": [
+          { "text": "Oh, great!", "context": "Dicho con tono bajo suele significar que algo salió mal." },
+          { "text": "Yeah, right.", "context": "Significa exactamente lo contrario: no te creo nada." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Oh, great, another meeting. Just what I wanted.",
+      "phonetic": "El tono de 'great' cae artificialmente para denotar ironía pura."
+    },
+    "escuchaReal": {
+      "material": "Busca una escena de una comedia o serie norteamericana (ej. Friends o similar).",
+      "task": "Identifica cuando un personaje dice 'Yeah, right' o 'Oh, great' con sarcasmo."
+    }
+  },
+  "18": {
+    "category": "Semana 3: Inglés Coloquial de EE. UU.",
+    "title": "Día 18: Expresiones idiomáticas cotidianas (Idioms)",
+    "repaso": [
+      { "expression": "Sarcasmo", "note": "Presta atención al tono de voz frente a la palabra literal." }
+    ],
+    "contraste": [
+      {
+        "title": "Frases hechas que no se traducen literalmente",
+        "use": "Los idioms resumen situaciones complejas en una sola imagen cotidiana.",
+        "examples": [
+          { "text": "Call it a day", "context": "Dar por terminado el trabajo por hoy." },
+          { "text": "Up in the air", "context": "Incierto, sin decidir todavía." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "We've been working for hours, let's call it a day.",
+      "phonetic": "'call it a day' se une rápidamente como 'call-it-a-day'."
+    },
+    "escuchaReal": {
+      "material": "Escucha una entrevista a Anya Taylor-Joy hablando en inglés.",
+      "task": "Anota si utiliza alguna frase hecha para describir su agenda o sus proyectos."
+    }
+  },
+  "19": {
+    "category": "Semana 3: Inglés Coloquial de EE. UU.",
+    "title": "Día 19: Expresar entusiasmo o rechazo (I'm down vs I'm good)",
+    "repaso": [
+      { "expression": "Call it a day", "note": "Usa esta frase para cerrar la jornada." }
+    ],
+    "contraste": [
+      {
+        "title": "Aceptar planes vs Rechazar con educación",
+        "use": "Formas ultra comunes en EE. UU. para responder a invitaciones rápidas.",
+        "examples": [
+          { "text": "I'm down", "context": "Apoyo el plan / Me parece perfecto." },
+          { "text": "I'm good / I'll pass", "context": "No gracias, paso de esto." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Want to grab some coffee? — Yeah, I'm down.",
+      "phonetic": "'I'm down' se pronuncia con energía positiva y directa."
+    },
+    "escuchaReal": {
+      "material": "Busca una entrevista informal en la calle (tipo 'WIRED Autocomplete Interview').",
+      "task": "Presta atención a cómo los actores aceptan o rechazan propuestas rápidas."
+    }
+  },
+  "20": {
+    "category": "Semana 3: Inglés Coloquial de EE. UU.",
+    "title": "Día 20: Respuestas cortas de reacción (No way / Seriously?)",
+    "repaso": [
+      { "expression": "I'm down", "note": "Confirma tu entusiasmo ante una propuesta." }
+    ],
+    "contraste": [
+      {
+        "title": "Mostrar asombro o incredulidad",
+        "use": "Reaccionar ante una noticia inesperada en una conversación fluida.",
+        "examples": [
+          { "text": "No way!", "context": "¡No me digas! / ¡Imposible!" },
+          { "text": "Are you kidding me?", "context": "¿Estás bromeando?" }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "No way! I can't believe that actually happened.",
+      "phonetic": "'No way' eleva el tono en la primera palabra para mostrar sorpresa."
+    },
+    "escuchaReal": {
+      "material": "Escucha fragmentos de entrevistas de Ana de Armas en programas de late night norteamericanos.",
+      "task": "Identifica cómo reacciona ante las bromas del presentador."
+    }
+  },
+  "21": {
+    "category": "Semana 3: Inglés Coloquial de EE. UU.",
+    "title": "Día 21: Mini-Test y Repaso de la Semana 3",
+    "repaso": [
+      { "expression": "Repaso de Slang e Idioms", "note": "Consolida muletillas, ironía y expresiones urbanas." }
+    ],
+    "contraste": [
+      {
+        "title": "Autoevaluación de Contexto e Intención",
+        "use": "Revisión general enfocada en el tipo de fallo C (entender la intención real más allá de las palabras).",
+        "examples": [
+          { "text": "Revisión de Errores A/B/C", "context": "Analiza tus estadísticas de la semana en la plataforma." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I mean, you know, it's up in the air, but I'm down if you are.",
+      "phonetic": "Integración completa de muletillas y modismos a velocidad nativa."
+    },
+    "escuchaReal": {
+      "material": "Elige una canción de The Cranberries ('Zombie') o de Miley Cyrus ('Angels Like You').",
+      "task": "Realiza el ejercicio de escucha en 3 pasadas y registra tus fallos en la plataforma."
+    }
+  }
+}

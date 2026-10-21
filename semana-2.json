@@ -1,0 +1,176 @@
+{
+  "8": {
+    "category": "Semana 2: Matices y Registro",
+    "title": "Día 8: Get (Entendimiento vs Obtención)",
+    "repaso": [
+      { "expression": "Gonna / Wanna", "note": "Repasa cómo se funden los modales en habla rápida." }
+    ],
+    "contraste": [
+      {
+        "title": "Usos dinámicos del verbo Get",
+        "use": "El verbo 'get' es de los más usados en EE. UU.; puede significar entender, conseguir o llegar.",
+        "examples": [
+          { "text": "I get it", "context": "Lo entiendo / Comprendo la idea." },
+          { "text": "Get some sleep", "context": "Consigue / Duerme un poco." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I didn't get what you meant at first, but now I get it.",
+      "phonetic": "'didn't get' conecta la 't' con la 'g' de manera sutil en habla rápida."
+    },
+    "escuchaReal": {
+      "material": "Busca una entrevista corta de Taylor Swift en YouTube.",
+      "task": "Presta atención a cuántas veces usa el verbo 'get' y anota el significado contextual que le da."
+    }
+  },
+  "9": {
+    "category": "Semana 2: Matices y Registro",
+    "title": "Día 9: Make vs Do (Intención y Creación)",
+    "repaso": [
+      { "expression": "Get it", "note": "Recuerda que 'get' cambia de significado según el contexto." }
+    ],
+    "contraste": [
+      {
+        "title": "Crear vs Ejecutar una acción",
+        "use": "Diferenciar cuándo crear o producir algo ('make') frente a realizar una tarea ('do').",
+        "examples": [
+          { "text": "Make a decision", "context": "Crear / Tomar una decisión definitiva." },
+          { "text": "Do your best", "context": "Ejecutar / Dar lo mejor de ti." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "You have to make a choice and just do your best.",
+      "phonetic": "'have to' se reduce frecuentemente a 'hafta' en la conversación informal."
+    },
+    "escuchaReal": {
+      "material": "Escucha fragmentos de entrevistas de Anne Hathaway.",
+      "task": "Identifica si usa 'make' para procesos creativos o decisiones y 'do' para acciones rutinarias."
+    }
+  },
+  "10": {
+    "category": "Semana 2: Matices y Registro",
+    "title": "Día 10: Say vs Tell vs Speak vs Talk",
+    "repaso": [
+      { "expression": "Make a choice", "note": "Recuerda el uso de 'make' para decisiones." }
+    ],
+    "contraste": [
+      {
+        "title": "Matices de comunicación",
+        "use": "Diferenciar los cuatro verbos de comunicación más comunes en inglés de EE. UU.",
+        "examples": [
+          { "text": "Tell someone", "context": "Decir algo directamente a una persona (requiere objeto indirecto)." },
+          { "text": "Speak / Talk", "context": "Hablar de forma general o mantener una conversación." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Don't tell me what to say, let's just talk about it.",
+      "phonetic": "'tell me' se une como 'tel-me' sin pausar entre las palabras."
+    },
+    "escuchaReal": {
+      "material": "Busca una entrevista de Scarlett Johansson hablando sobre su carrera.",
+      "task": "Escucha cómo diferencia cuando le dice algo a alguien ('tell') frente a conversar ('talk')."
+    }
+  },
+  "11": {
+    "category": "Semana 2: Matices y Registro",
+    "title": "Día 11: Phrasal Verbs comunes en entrevistas",
+    "repaso": [
+      { "expression": "Tell vs Talk", "note": "Recuerda que 'tell' necesita un receptor directo." }
+    ],
+    "contraste": [
+      {
+        "title": "Verbos con partículas de uso diario",
+        "use": "En el inglés hablado de EE. UU. se prefieren los phrasal verbs frente a verbos formales.",
+        "examples": [
+          { "text": "Bring up", "context": "Mencionar o sacar un tema en una conversación." },
+          { "text": "Figure out", "context": "Resolver, entender o descubrir algo." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "I need to figure out why you brought that up.",
+      "phonetic": "'figure out' une la vocal final con la 'o' inicial de forma fluida."
+    },
+    "escuchaReal": {
+      "material": "Escucha un podcast de entretenimiento o entrevista con actores norteamericanos.",
+      "task": "Anota al menos dos phrasal verbs que utilicen para explicar cómo resolvieron un problema."
+    }
+  },
+  "12": {
+    "category": "Semana 2: Matices y Registro",
+    "title": "Día 12: Intensidad de adjetivos (De 'big' a 'massive')",
+    "repaso": [
+      { "expression": "Figure out", "note": "Usa este phrasal verb cuando descubras o resuelvas algo." }
+    ],
+    "contraste": [
+      {
+        "title": "Matices de escala y exageración",
+        "use": "Los hablantes nativos de EE. UU. matizan mucho la intensidad en lugar de usar siempre 'very'.",
+        "examples": [
+          { "text": "It's huge / Massive", "context": "Indica un tamaño o impacto extremadamente grande." },
+          { "text": "It's decent", "context": "Indica que algo está bien, es aceptable pero sin exagerar." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "That was a massive mistake, but the outcome was decent.",
+      "phonetic": "La pronunciación de 'massive' enfatiza la primera sílaba con fuerza."
+    },
+    "escuchaReal": {
+      "material": "Busca una reseña de una película o entrevista a un director de cine en YouTube.",
+      "task": "Presta atención a los adjetivos intensivos que usan para describir sus proyectos."
+    }
+  },
+  "13": {
+    "category": "Semana 2: Matices y Registro",
+    "title": "Día 13: Formal vs Casual (Reescritura de registros)",
+    "repaso": [
+      { "expression": "Massive vs Decent", "note": "Contrasta la exageración frente a la moderación." }
+    ],
+    "contraste": [
+      {
+        "title": "Cambiar de tono según la situación",
+        "use": "Cómo expresar la misma idea de forma ultra informal o más neutra/cuidadosa.",
+        "examples": [
+          { "text": "I'm exhausted (Casual)", "context": "Estoy agotado por completo." },
+          { "text": "I'm quite tired (Neutro)", "context": "Estoy bastante cansado." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Honestly, I'm completely exhausted after today's interview.",
+      "phonetic": "'Honestly' reduce la 't' intermedia de forma casi imperceptible (/hon-es-ly/)."
+    },
+    "escuchaReal": {
+      "material": "Escucha una charla o entrevista formal de una celebridad y compárala con una charla informal de calle.",
+      "task": "Nota el cambio en el vocabulario y la velocidad al cambiar de registro."
+    }
+  },
+  "14": {
+    "category": "Semana 2: Matices y Registro",
+    "title": "Día 14: Mini-Test y Repaso de la Semana 2",
+    "repaso": [
+      { "expression": "Repaso de Verbos y Matices", "note": "Consolida el uso de get, make, do y phrasal verbs." }
+    ],
+    "contraste": [
+      {
+        "title": "Autoevaluación de Matices y Registro",
+        "use": "Revisión general de errores tipo C (comprensión de intenciones y contexto).",
+        "examples": [
+          { "text": "Revisión de Errores A/B/C", "context": "Analiza tus estadísticas acumuladas en la plataforma." }
+        ]
+      }
+    ],
+    "oido": {
+      "audioText": "Let's figure out what matters most and make it happen.",
+      "phonetic": "Integración de los verbos de alta rotación estudiados en la semana."
+    },
+    "escuchaReal": {
+      "material": "Elige una entrevista de la Semana 2 (Taylor Swift, Anne Hathaway o Scarlett Johansson).",
+      "task": "Realiza el ejercicio de escucha en 3 pasadas y registra tus fallos en las categorías correspondientes."
+    }
+  }
+}
